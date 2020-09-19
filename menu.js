@@ -99,7 +99,7 @@ side1 = prompt(`What would you like for your First Side?
 }
 else if(side1 == "SALAD") {
   let confirmSide1 = prompt(`The${sides.sld.name} will be $${sides.sld.cost}. Is that what you want?`).toString().toUpperCase();
-  if(confirmSide1 == "YES") {alert(`...`); alert(`Great choice!`);orderSide1();}
+  if(confirmSide1 == "YES") {alert(`...`); alert(`Great choice!`);}
   else{orderSide1();}
 }
 else if(side1 == "STEAMED VEGTABLES") {
