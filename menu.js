@@ -1,7 +1,7 @@
 const entrees = {
   stk: {
     name: " Steak",
-    cost: 20.00
+    cost: 25.00
   },
 
   fsh: {
