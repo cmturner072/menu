@@ -1,5 +1,5 @@
 def hi_there():
-    print('hi')
+    print('goodbye')
 
 def function():
     print('Hi guys')
