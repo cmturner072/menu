@@ -3,3 +3,14 @@ def hi_there():
 
 def function():
     print('Hi guys')
+
+
+def function():
+    print('Hi guys')
+
+def function():
+    print('Hi guys')
+
+
+def function():
+    print('Hi guys')
