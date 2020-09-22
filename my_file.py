@@ -17,3 +17,7 @@ def function():
     
 def function():
     print('Bye guys')
+
+
+def function():
+    print('Bye gals')
