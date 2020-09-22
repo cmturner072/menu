@@ -14,3 +14,6 @@ def function():
 
 def function():
     print('Hi guys')
+    
+def function():
+    print('Bye guys')
