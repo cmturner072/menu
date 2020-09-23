@@ -1,4 +1,23 @@
 def hi_there():
-    print('bye')
+    print('hi')
+
+def function():
+    print('Hi guys')
 
 
+def function():
+    print('Hi guys')
+
+def function():
+    print('Hi guys')
+
+
+def function():
+    print('Hi guys')
+    
+def function():
+    print('Bye guys')
+
+
+def function():
+    print('Bye gals')
